@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 I'm Nikita Majalikar  
 
-📊 **Data Analyst | Business Intelligence Analyst **  
+📊 **Data Analyst | Business Intelligence Analyst**  
 
 I specialize in transforming raw data into actionable insights through **data analysis, visualization, and storytelling**.  
 My work focuses on uncovering business trends, optimizing KPIs, and building dashboards that drive decision-making.  
