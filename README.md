@@ -26,7 +26,7 @@ Currently expanding my portfolio with projects in **Python, SQL, Tableau, Excel,
 ---
 
 ## 🔧 Tech Stack  
-- **Languages**: SQL, Python (Pandas, NumPy, Matplotlib)  
+- **Languages**: SQL, Python (Pandas, NumPy)  
 - **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
 - **Databases**: MySQL, PostgreSQL, SQLite  
 - **Other Tools**: Excel, Git/GitHub  
@@ -38,15 +38,16 @@ Currently expanding my portfolio with projects in **Python, SQL, Tableau, Excel,
 ### 📈 Business KPI Dashboard  
 - [**Business KPI Dashboard**](https://github.com/nikitamajalikar/Business-KPI-Dashboard)  
   Tableau storytelling dashboard analyzing **sales, profit, and customer segmentation** (AmazingMart EU dataset).  
-  🔗 [View Tableau Dashboard](https://public.tableau.com/your-tableau-link)  
+  🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/nikita.majalikar/viz/AmazingMartEUSales_17579278640020/Dashboard1?publish=yes)  
 
 ### 🏦 Bank Customer Insights  
-- [**UK Bank Customers Analysis**](https://github.com/nikitamajalikar/UK-Bank-Customers) *(to be added)*  
+- [**UK Bank Customers Analysis**](https://github.com/nikitamajalikar/UK-Bank-Customer-Analysis)  
   Data analysis on **10,000+ customer records**, exploring demographics, product adoption, and churn risk.  
-  Interactive Tableau dashboard with **segmentation and retention insights**.  
+  Interactive Tableau dashboard with **segmentation and retention insights**.
+  🔗 [View Tableau Dashboard](https://public.tableau.com/app/profile/nikita.majalikar/viz/storyline_17574775671240/Story1)  
 
 ### 📊 SQL Data Exploration  
-- [**SQL Projects**](https://github.com/nikitamajalikar/SQL-Portfolio) *(in progress)*  
+- [**SQL Projects**](https://github.com/nikitamajalikar/SQL) 
   Collection of SQL queries for **data cleaning, exploration, and KPI reporting** across multiple datasets.  
 
 ---
@@ -57,4 +58,4 @@ Currently expanding my portfolio with projects in **Python, SQL, Tableau, Excel,
 - [Email](mailto:nikitanandamajalikar@gmail.com)  
 
 ---
-⭐️ *Check out my pinned repositories for my latest data analytics & BI projects.*  
+⭐️ *Check out my pinned repositories for my latest data analytics & projects.*  
