@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋 I'm Nikita Majalikar  
 
-📊 **Data Analyst | Business Intelligence Analyst | Tableau & SQL Enthusiast**  
+📊 **Data Analyst | Business Intelligence Analyst **  
 
 I specialize in transforming raw data into actionable insights through **data analysis, visualization, and storytelling**.  
 My work focuses on uncovering business trends, optimizing KPIs, and building dashboards that drive decision-making.  
 
-Currently expanding my portfolio with projects in **SQL, Tableau, and Python for analytics**.  
+Currently expanding my portfolio with projects in **Python, SQL, Tableau, Excel, and Power BI for analytics**.  
 
 ---
 
